@@ -1,2 +1,2 @@
 # picodemo
-my blog tuchuang
+my blog picture
